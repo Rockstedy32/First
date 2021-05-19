@@ -4,6 +4,9 @@ window.addEventListener("load", function() {
 
 	p.innerHTML = " New Script JS";
 	
+	
+	alert("Hi everybody!");
+	
 }, false)
 
 
